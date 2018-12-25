@@ -1,0 +1,22 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamdoron/test1.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/iamdoron/test1/issues"
+  },
+  "homepage": "https://github.com/iamdoron/test1#readme",
+  "devDependencies": {
+    "test2": "git+ssh://git@github.com/iamdoron/test2.git#v1.0.1"
+  }
+}
