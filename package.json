@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/iamdoron/test1#readme",
   "devDependencies": {
-    "test2": "git+ssh://git@github.com/iamdoron/test2.git#v1.0.1"
+    "test2": "git+ssh://git@github.com/iamdoron/test2.git#v1.0.2"
   }
 }
